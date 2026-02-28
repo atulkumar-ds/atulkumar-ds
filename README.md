@@ -47,4 +47,4 @@ Built using Python and JSON for data handling.
 ---
 
 ## 📫 Connect With Me
-LinkedIn: (Add your link here)
+LinkedIn: (https://www.linkedin.com/in/atul-kumar-iiitdm/)
