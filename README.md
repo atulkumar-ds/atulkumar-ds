@@ -8,20 +8,26 @@
 - 💡 Interested in Machine Learning, Data Science & Problem Solving
 - 🧠 Strong in Python, DSA, and ML Algorithms from Scratch
 - 🎯 Goal: Become a Data Scientist / AI Engineer
+- 🚀 Actively building end-to-end Machine Learning projects
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Languages:**  
-Python | C | C++
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Data Science:**  
-NumPy | Pandas | Matplotlib | Seaborn
+### 📊 Data Science
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EABE3?style=for-the-badge)
 
-**Machine Learning:**  
-Linear Regression | Decision Tree | Random Forest  
-KNN | Naive Bayes | Cross Validation | Hyperparameter Tuning  
+### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)
 
 **Concepts:**  
 Bias-Variance Tradeoff | Overfitting | Underfitting  
@@ -32,11 +38,15 @@ Confusion Matrix | Precision | Recall | F1 Score
 ## 📂 Featured Projects
 
 🔹 **ML Algorithms From Scratch**  
-Implemented core ML algorithms using NumPy without sklearn.
-
+- Implemented Linear Regression, KNN, Decision Tree & Naive Bayes from scratch
+- Built core logic manually without using sklearn
+- Implemented evaluation metrics (Accuracy, MSE, R2 Score)
+  
 🔹 **Contact Book CLI App**  
-Built using Python and JSON for data handling.
-
+- CLI-based contact management system
+- Implemented add, edit, delete, search & block features
+- Data stored using JSON
+  
 ---
 
 ## 📈 Current Focus
@@ -45,6 +55,13 @@ Built using Python and JSON for data handling.
 - Building Real-World ML Projects
 
 ---
+---
+
+## 📊 GitHub Stats
+
+![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=atulumar-ds&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atulumar-ds&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 LinkedIn: (https://www.linkedin.com/in/atul-kumar-iiitdm/)
