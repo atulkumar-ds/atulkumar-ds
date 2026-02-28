@@ -55,13 +55,6 @@ Confusion Matrix | Precision | Recall | F1 Score
 - Building Real-World ML Projects
 
 ---
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atulumar-ds&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atulumar-ds&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 LinkedIn: (https://www.linkedin.com/in/atul-kumar-iiitdm/)
