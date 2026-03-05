@@ -54,6 +54,14 @@ Confusion Matrix | Precision | Recall | F1 Score
 - Advanced Machine Learning
 - Building Real-World ML Projects
 
+  ## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Atul-Kumar&theme=shadow_blue&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Atul-Kumar&theme=shadow_blue&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-Kumar&theme=shadow_blue&layout=compact)
+
 ---
 
 ## 📫 Connect With Me
